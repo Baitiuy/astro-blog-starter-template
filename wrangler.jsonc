@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "astro-blog-starter-template",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "d1-ddsite",
+			"database_id": "2a387d95-69da-45d4-828e-c21119dd1fbf"
+		}
+	]
+}
